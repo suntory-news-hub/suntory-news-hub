@@ -1,26 +1,353 @@
 {
- "lastUpdated": "2026-10-26T06:24:09.371985+00:00",
- "totalCount": 197,
+ "lastUpdated": "2026-10-27T00:52:23.863031+00:00",
+ "totalCount": 225,
  "stats": {
-  "fetched": 536,
-  "excluded": 76,
-  "unrelated": 142
+  "fetched": 381,
+  "excluded": 58,
+  "unrelated": 112
  },
  "articles": [
   {
-   "id": "n_e7262887d5aa",
-   "title": "KUGITAMAんとこ来ないか？KUGITAMAが「サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～」に協賛",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yLWdkYUlSWlVrbjVGSl9UblhCeXhUMXU2Qk5QWDNXN2hfZnpjbjhpVWNDeTVtbWpBZXVVVDk3Um1jdHlzOFBTUEdCWE5jNzUtYnd3eVNFcXVEYTV2NTcxSDZiM2RtbFFtZGpsYWdTUWxsdzkzSHc?oc=5",
-   "source": "Mantan Web",
+   "id": "n_b7dc44f9ea51",
+   "title": "食べて体験する、インナービューティー。つの食品がTokyo Beauty Week 2026初出展米ぬか由来のこめ油とイノシトールを使ったピンチョスを提供",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jN19xaXR3Uy1EQl9Lems4djROM3dSbl95dm9rcHNoWklQSzRDSlZxM3Z5SHd5cWVpU1ZfZlQ3STJGRU03Z2xEVVpFWUhsYWVTUlhCclo4U1FhSkEtRF96N3kzZVVEeVh0V1E?oc=5",
+   "source": "PR TIMES",
+   "query": "GN 機能性表示食品",
+   "scope": "industry",
+   "publishedAt": "2026-10-27T00:30:02+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_3bedfb6ab980",
+   "title": "67年発売の｢純生｣を現代の技術で復刻！｢サントリー生ビール〈純生〉｣発売",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOSVNHamdsSFUzVDU3RXV1TGY3UzEyYlhnY21oVmg5dWViQUZsbjk5VWVtNTBnVXNFVE1DVW9DOWlya0Exa3k2dmMzbFVUdVNmUmNMd05pZGdfVWFTNU5PWHdhSEFCaVVVYWhCSGl3RQ?oc=5",
+   "source": "オールウェイズ・ラブ・ビール",
    "query": "GN サントリー",
    "scope": "suntory",
-   "publishedAt": "2026-10-26T03:52:04+00:00",
+   "publishedAt": "2026-10-26T23:19:32+00:00",
    "summary": "",
    "related": true,
    "segments": [
     "Alcohol"
    ],
    "topics": [
+    "Launch"
+   ]
+  },
+  {
+   "id": "n_d59c460d94bb",
+   "title": "「サプリメント食品」の名称に、食品衛生法の規格基準（案）を了承…消費者庁の調査部会",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OeTl3Vm1NQVhBUF9VbkpBTmVZcms1Y0cyYVBvbWp0OVlYRWs1X05KelJ0WWlRcXEzdzc3TUdlVzA2TGFjT0MzQWpibnkxUEM0V2RDM21n?oc=5",
+   "source": "通販通信ECMO",
+   "query": "GN 機能性表示食品",
+   "scope": "industry",
+   "publishedAt": "2026-10-26T22:12:00+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": [
+    "Regulation"
+   ]
+  },
+  {
+   "id": "n_dd26e66fdf0e",
+   "title": "サントリー、｢THE PEEL｣から、ゆずスピリッツを加えた限定品発売！",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11TW45S2xzTzJJMFZMeGZQVUdmRGd5Uk5LT21xQzVwRDlVS05wejYwelFzMVJwYUpxdTIwaWxLcTBGRTdqMW9fNHhrTTFDUURvNzYxQl8yR05PS2IxWGd0SzRkZkRwNms?oc=5",
+   "source": "オールウェイズ・ラブ・ビール",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T21:48:43+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Launch"
+   ]
+  },
+  {
+   "id": "n_9b1a967b037b",
+   "title": "韓国甘味料入り低糖食品の血糖抑制表示28年禁止 業界に影響拡大 - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUJ5U1dMSnA1TTZXcHo0NmU0ZVNBRnhHWnVobVBEYXh3Wkp3UEdpemRhaWVKUVhYLVdDVzlRVDZId0c1UkNuMms0TnVFLUpBT0lLa1MwSk9qbUNTTDl0d3ZTM2x3YzZVVDN1S1cxTGVXaGU1LW9sN3RrR2tzb1MyOEhkdThsN091c002YjBCcXJyc1HSAZMBQVVfeXFMTmFCeVNXTEpwNU02V3B6NDZlNGVTQUZ4R1p1aG1QRGF4d1pKd1BHaXpkYWllSlFYWC1XQ1c5UVQ2SHdHNVJDbjJrNE51RS1KQU9JS2tTMEpPam1DU0w5dHd2UzNsd2M2VVQzdUtXMUxlV2hlNS1vbDd0a0drc29TMjhIZHU4bDdPdXNNNmIwQnFycnNR?oc=5",
+   "source": "Chosunbiz",
+   "query": "GN 機能性表示食品",
+   "scope": "industry",
+   "publishedAt": "2026-10-26T20:21:00+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_6afe3d0f6bc2",
+   "title": "長野：ウォリアーズ買って応援 デリシア、サントリー チケットなど当たる ：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GWDdyOUswQk1kZnhITWkxX2toaldYVjZzc0dwMEJvWV9SalVicXRxNEFRWHc5ME5USlBQVDB1T21wRDA4cVJUR19aZUQydWZ3Q2FoOHk0a2Q5UDVLTUxsdHpVaDF2Vmh1ckhIay0waTRLQQ?oc=5",
+   "source": "読売新聞",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T20:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Society"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_40d62d05bf2e",
+   "title": "新CMや体験イベントで「ROKU〈六〉」と「翠（SUI）」の魅力発信！ジン市場の拡大を狙うサントリーの戦略とは",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04T3VWMGU5VWdiOUtNOUpiSUtjZTk5M3N4eVdZbkFKZ29zdWh5TnljdWdSZ0ZCSEhVWEtHdm1yYWRqazIwVU4tWXdSZFYxTjc4cUZaYWdETDlRZkhWa3puNWtWSU1ObVA5Ti12dV93?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 広告・CM",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T15:05:36+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Ad",
+    "Business"
+   ]
+  },
+  {
+   "id": "n_a3a13911fb6e",
+   "title": "サントリー〈天然水のビール工場〉京都ブルワリーの工場見学がリニューアル！天然水と神泡の秘密が学べる",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OMDdXZ0lBRFpqWFpjR3IzX2pLbnhYSGF0aFVlM2UzTHJvREpRLVRpRVJwVVlXa1ZuOHdZWHRVMTVCa2s5VjVKN0x1YWM2TldwNjFLb051elgxV2tIeUg4Y3JvOFAxYV9ELTdr?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 酒類",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T14:45:40+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Beverage",
+    "Alcohol"
+   ],
+   "topics": [
+    "Launch",
+    "Business"
+   ]
+  },
+  {
+   "id": "n_8e6ded1eb67c",
+   "title": "サントリーホールの設計・建設にも携わる鹿島建設が開発！立体音響スピーカー「OPSODIS 1」を解説（TOKYO FM＋）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fajhfWHVNd0hWRnpzajFTRHBCQnhiU2pKbmdZRWtaem9SZUI2V25Gc2RHbVFTdmU2enQ5czNBb2F6dUxRTXJyVTR4ODhkc0xiU01QeEZvOEhYdjhPbHd0STJRaXJnRTBJTEhGTV95aExlbF9JWU55TUpnak5MUEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T12:50:25+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol",
+    "Society"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_74b6b9bcd6c3",
+   "title": "サントリーTAG缶販売開始 in武蔵小杉東急スクエアのお知らせ | KAWASAKI FRONTALE",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96cTkxRVF3Y29YNE9KN2JRVFNpM2hPNnlNbmFtcWNMY0lZOGJ5M0ZiZ2xVd05zd1c1MnU2RlAzWU40YVp4dVZaVk5Td0phMXFRVVN0RjFBcEM0a3RDd0E?oc=5",
+   "source": "川崎フロンターレ公式サイト",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T11:59:14+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Other"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_096831dddede",
+   "title": "日本ビタミン市場：予防栄養、機能性食品の革新、消費者の健康トレンドが新たなビジネス機会を創出",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OSjk5R1lxODZOSFRHMXVKZF9WQ2VvV1RpVExmc1lNbnd2U3ZWVTNYUnZtRGNQVTRqZmpZM01JYnZXaXpwek40WlNvRm1yV0NiNmc1YnhOZmllU3lxRERIejRveU9Za2hRYVYxQVRJSUtWYnp2MWc?oc=5",
+   "source": "ニコニコニュース",
+   "query": "GN 健康食品市場",
+   "scope": "industry",
+   "publishedAt": "2026-10-26T09:03:22+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": [
+    "Business"
+   ]
+  },
+  {
+   "id": "n_e3c722496122",
+   "title": "ユニチカが子会社の大阪染工の解散を決議 「山崎」蒸溜所隣の工場跡地はサントリーへ、譲渡益194億円",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zVE44OEQ3YUFMTkZpdW5jekNaQ0dGNFhkVUhzYl9BNVhkZFpKVjlEcWtRd3BhVFhXNXI1RHNvVHEzdWd1WXZIdmo5Umt6ZTFwbDhV?oc=5",
+   "source": "WWDJAPAN",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T08:53:13+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Business"
+   ]
+  },
+  {
+   "id": "n_4410c58bcf2b",
+   "title": "近畿エリア キャンペーン・イベント情報｜サントリー",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tRnJ6aW1RSmI0SF9PeU94cFJ5ZTdabkt2a1VLaE5zR1BzZlRYYnZyY2h2TFYzbWZUb09SVUc0Q0tONVdYNFRmSGxfb0cxcnJaSGhTbDFBNkg?oc=5",
+   "source": "サントリーホールディングス",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T08:22:29+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Other"
+   ],
+   "topics": [
+    "Ad"
+   ]
+  },
+  {
+   "id": "n_6ff45a36ce68",
+   "title": "ビール会社のビアガーデンに注目！「サントリー屋上ビアガーデン」大阪・西梅田",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53ZkdYcGRwbVQ2M2llcW9vZmZLRTFheXVGc3VlTVFaRlhUdGhKZEdYcFhpYUdDbnNZTC1mdEtLSE40SGE5RG1RUy05cGVBUkdfWkw1eFNKVm1ZNlJVeTUxb3pRWVF4WkZNNXc?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 酒類",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T07:41:47+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_d87f4ca5f3e7",
+   "title": "グリコ開発の“ヘルシーでおいしい”新チョコレート",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mejhPYnFORzJBLTlxbDN5RUxSSlFrZXRjemxfLWN2VXZJMVAyaXZhakZ0NEEydE4yemVVRHotRmNsQXBYYVpCVzZhLTZpRVpLSVdmSUxLSlNhdjRFM1RHUFZlYUt3eHd2?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 機能性表示食品",
+   "scope": "industry",
+   "publishedAt": "2026-10-26T07:40:38+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_5a5eda64d644",
+   "title": "デジタル時代の新しいアイケア商品 遠くのピント合わせ見る力維持する「ロート V5 ビジョンパワー」新発売 ロート製薬",
+   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSEhwb2ZHUTVKaXVpSTg3Q3JXMWFSWnpKNFBHNEtPdUNCOXN0Skg3ZXRpOWM0bUs1LWRKVE5RaG5RQ01WOVFIRWF4djRLQkdqVmZ4MjNtN2ZtcExROFBoSjFwT2ZNcXVudU0xTWNQN01ZeE8xVDh0WmtTTHB1a211WlBmZ1ZodTYwcklrMy0tTmtLOFRfUW9sQ1dwMW9WNG1MTE1xQjU0WlMyWHltdzBLQlBueF92Q01XeEp0a1VOX3NISXN0a2F2MGNrb0ZTMm00N2FWWXo5MVRHYmcxbmZUSDZuMDc3cTVQQVZNY2NhZm15cFNHTlpzOGF4QXQ3TEEtRWtUVy1ubkFlRW95WWRqcGl2dTdGcWo0MkprUWhmakVqZEFTV0c0SnBfdTZCczB3ZGN3OTBpREtOaTFndk92c1VoVExKTnlacGVhc19rR3Q1cEZKYVRCZ1lB?oc=5",
+   "source": "医薬通信社",
+   "query": "GN 機能性表示食品",
+   "scope": "industry",
+   "publishedAt": "2026-10-26T07:27:30+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": [
+    "Launch"
+   ]
+  },
+  {
+   "id": "n_2e4a53a9045b",
+   "title": "ヨーヨー・マ サントリーホール40周年スペシャルコンサート",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42eFp4d2tXVU1QWU1QZkVlRkpMRjRrYndYVzVWaEVLV2xSRjZBRVVZUFgtVTlBemwyVllkal9xdjYzLVBaZ3lGQ3diLUY2dVRuLW85Rnltaw?oc=5",
+   "source": "毎日クラシックナビ",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T07:11:14+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Society"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_0c7115b9bb38",
+   "title": "サントリー 酸化防止剤無添加のおいしいワイン。おいしく糖類0 Sparkling",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lN2dhZnRYUGFGQzc5WVlEYUI1SjF5WGhDOXlIU3VtaDlFM0V2dVFSNXFGWHFpRHNESkF5a3ZGb2hJMEVKUHIzMUdKUkk0bWc?oc=5",
+   "source": "もぐナビ",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T06:31:16+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_90ff38313d7d",
+   "title": "アルピー平子扮する“意識高い系IT社長”瀬良明正×サントリー天然水、まさかのコラボ第2弾が実現",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jU05Ral8zTzEtSzNUcXBZeENnbFFWR09WM052bW9iZEd2UTNHWUdINnJnVTdhZVltbzlBQ0IwM0l6ak55aS14TWJFNE9PZ0dSNS1TS21CN3NDNTI4cmFibWVTRkp6TFd6WEE?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 経営",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T06:22:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Beverage",
+    "Corporate"
+   ],
+   "topics": [
+    "Ad",
+    "Business"
+   ]
+  },
+  {
+   "id": "n_340d79d2ebd0",
+   "title": "サントリー 酸化防止剤無添加のおいしいワイン。おいしく糖類０ Ｓｐａｒｋｌｉｎｇ（ユーザー登録）クチコミ1件・評価4.0/7点",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZalhwZmZuamFxYWlCLUtCSWw3LTlnUzFZeGU5eEo4LVlxVFVLVFZ3SUhvTGp2SUl2UWdwOXdtQjhQcG9rUjl2UzdR?oc=5",
+   "source": "もぐナビ",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T06:20:16+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_eb51918d89bc",
+   "title": "サントリー「ギルティ炭酸 NOPE」が「ドラゴンクエストモンスターズ4」とコラボ。描き下ろしラベル全4種が11月下旬発売",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4ySENRcXZ5YktPZWRQN3V1ZkhPUnNVVFZoWWlraS04Z0lQTHhDLVNNcUo1Q3oxWE9xYkVKczhlRWdjWXJSYjgzcDBlOG5scXI5RU5SbndwSzRVQmVjTDA3RVNZZDkwRWRpWUtCenlvTEVfTUXSAXhBVV95cUxNLXFRNUpyOXZZdVlxYlYzWnNVMV9vRnU4YmwySUN3MkpCbzd5aVFoc19aWlE2NVk0cC1YbXdDZ0tEUWZhSnN2N3hubVF4NkotQUVBY2o1dkc0aWdzb1RueU9iaFUzMDZ4V2cwUHp6QnQ4bjFPcHhidjk?oc=5",
+   "source": "CoRRiENTE",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T06:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Beverage"
+   ],
+   "topics": [
+    "Launch",
     "Ad"
    ]
   },
@@ -39,6 +366,23 @@
    ],
    "topics": [
     "Research"
+   ]
+  },
+  {
+   "id": "n_e71e288e8125",
+   "title": "KUGITAMAんとこ来ないか？KUGITAMAが「サントリー オールフリー presents 氣志團万博2026 〜房総爆音リゾート〜」に協賛",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fNk1jMS1zWlRPdEJPeDR0U2wtX01EU1hZZlZZYWxqZVNsZGE1dlEyWlVsenR0QkZmM1kxS1ZjbGVYeU1ycTBGS0MtRXdhNTBTSmFyMlF1M1VJYzFUWm5qN2p2OU5OMXJpQmc?oc=5",
+   "source": "PR TIMES",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-26T03:00:01+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Ad"
    ]
   },
   {
@@ -63,7 +407,7 @@
    "title": "サントリー「金麦」がビール化＆新商品「金麦〈豊潤〉」も登場！竹野内豊、檀れい、竹内涼真ら豪華キャストがPR発表会に登壇",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aQklYYkt0NHlucENCcWk4cVdLRlRVdGdVQV90UmJpNHlVRFZ2Z0k5MHdWYXhDV3gtY211aFJOYWN0cFJpWlNkc1otRkRBSFdRNmlZVDQyX0R3WWpnUGRJRmFkZXk3NlNhd2h1NDNB?oc=5",
    "source": "ウォーカープラス",
-   "query": "GN サントリー",
+   "query": "GN 酒類",
    "scope": "suntory",
    "publishedAt": "2026-10-26T01:48:36+00:00",
    "summary": "",
@@ -77,13 +421,13 @@
    ]
   },
   {
-   "id": "n_e49e7437efee",
-   "title": "みずみずしい果物らしさが鮮烈！サントリーの缶チューハイ「-196」新定番3種は「シンプルでわかりやすい」を追求",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13d3B2Z2hlSGR2d2p5VkNfOHA1QUZqcVEtbFpXdWVUNlVJY0JfRlVPbS1uYlRac2FWQjNMcDI0bDlmemJnV0tSVzBmWklUaGJQTVdyNWtIVWVOWmJsUE1jZjl4MFd6SGx2UldyWDNn?oc=5",
-   "source": "ウォーカープラス",
+   "id": "n_7fc85051cba0",
+   "title": "金麦〈豊潤〉『待ってました！』篇 15秒 松田宣浩 / 松下由依 サントリー",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIOE9lUmtPb0hpTFcyam9fcXdFU2FzQnZjYU9Gb2hDdTRtYTVYekdlN1k3MGI5Z3ozeExOdTQ5ZHRWN2xWaFRlMEFHVXBiQ1lvNnpxY1R2OEdTMFZE?oc=5",
+   "source": "YouTube",
    "query": "GN サントリー",
    "scope": "suntory",
-   "publishedAt": "2026-10-25T23:14:01+00:00",
+   "publishedAt": "2026-10-26T01:00:10+00:00",
    "summary": "",
    "related": true,
    "segments": [
@@ -92,21 +436,19 @@
    "topics": []
   },
   {
-   "id": "n_916298cce47f",
-   "title": "サントリー史上最高！アルコール度数12％の“強刺激チューハイ”発売",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1YTdfNlRfUXZfWXlXNmlUeW9BajBJSFA5ZE9OTFA0bkVTdlZybDZleHlLLWQ4ZTItZklSRjQ1bWE5anAzMG5jZXlRWTc5TDJzVVhud2g1d3VtWjl4NjZqRHlXWklwVnc?oc=5",
+   "id": "n_e49e7437efee",
+   "title": "みずみずしい果物らしさが鮮烈！サントリーの缶チューハイ「-196」新定番3種は「シンプルでわかりやすい」を追求",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13d3B2Z2hlSGR2d2p5VkNfOHA1QUZqcVEtbFpXdWVUNlVJY0JfRlVPbS1uYlRac2FWQjNMcDI0bDlmemJnV0tSVzBmWklUaGJQTVdyNWtIVWVOWmJsUE1jZjl4MFd6SGx2UldyWDNn?oc=5",
    "source": "ウォーカープラス",
-   "query": "GN サントリー",
+   "query": "GN サントリーHD",
    "scope": "suntory",
-   "publishedAt": "2026-10-25T23:06:46+00:00",
+   "publishedAt": "2026-10-25T23:14:01+00:00",
    "summary": "",
    "related": true,
    "segments": [
     "Alcohol"
    ],
-   "topics": [
-    "Launch"
-   ]
+   "topics": []
   },
   {
    "id": "n_4f2ece1affc7",
@@ -124,6 +466,23 @@
    "topics": []
   },
   {
+   "id": "n_142dfc843bc9",
+   "title": "健康食品や医薬品の「ファーマフーズ」、M＆Aでフィッシュプロテイン活用の新事業を創出 連続買収で売上高1000億円へ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBczA1OUhvZndpSFJwd1ZQN3haYzMxWGFQRW9wXzBpRm00SXkyQUNzbmVDeFI4TVlTM1lYZXMyOXFvYWt4VDBiMEp1OHpQSGNqT0NhZERDdXctalBCOGdhTkVWTVlwa1E?oc=5",
+   "source": "M&A Online",
+   "query": "GN 健康食品市場",
+   "scope": "industry",
+   "publishedAt": "2026-10-25T21:35:00+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": [
+    "Business"
+   ]
+  },
+  {
    "id": "n_622b87507c90",
    "title": "サントリー、メルシャン、マンズワインの日本ワイン共創プロジェクトに「やってほしいこと」",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OTHV0R0dEZ0tYaldsS3dNeUVjeHl3TFZWVlkwS0JnV2J1bndXSHlxd3VHSXZDcV9PYzN3OGF6cHRiMnlYQUhFVXBOSDhsdm9IVjNWbTFR?oc=5",
@@ -137,6 +496,23 @@
     "Alcohol"
    ],
    "topics": []
+  },
+  {
+   "id": "n_f3e40076b90e",
+   "title": "サントリー、ビール好き向けの新RTD「THE DRY」を10月20日発売！“刺激感”“喉で味わう”RTDの新カテゴリ",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92TmRUVUFZbEtERmxKN0FiUFowUVN1VlBVNTNqeWMyOWtzT1VqcVA4RzhqLWJ6SG9BUEx5R1J1R3F1QW5YX3R1MmVxeE5fOGtGNHl3eEpReG53QmI5ZnRDWGlwRTR3N0RZMXplbl9R?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 酒類",
+   "scope": "suntory",
+   "publishedAt": "2026-10-25T20:40:34+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Launch"
+   ]
   },
   {
    "id": "n_8b5e62871556",
@@ -195,7 +571,7 @@
    "title": "人気急上昇中の“JJ”って何？サントリーのジャスミン焼酎「茉莉花」の新CMに川口春奈とkemioが登場",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZHBUY1JIRjRLb0RyRENQOTBGWmg5ZDBFaU1ZT01QX0xuRFhnRzQ3OWRfdGctdFl6Z2ZHMHRsazQtMG5uM2hxT2RaYU8zanVCLU9QNWVnTWkzSkNUZkk0Nlk5SHhxRXQ5cTVaU1Bn?oc=5",
    "source": "ウォーカープラス",
-   "query": "GN サントリー",
+   "query": "GN 広告・CM",
    "scope": "suntory",
    "publishedAt": "2026-10-25T16:39:23+00:00",
    "summary": "",
@@ -209,28 +585,11 @@
    ]
   },
   {
-   "id": "n_42a6c08c6ce9",
-   "title": "さゆりんごが浅野忠信のギター役に志願!?ビール好きのヒコロヒーも感動するサントリーのノンアルビール「ザ・ベゼルズ」のCM放送が開始！",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhNVlsUWg3aGc2Uy1rczVqb2FwV2JoaFBKdzFyNzAxYVIyY0g3MUl4bER1bFd1bm5VVlQ0dDVxX1UwU3hRNG0xaGRZYnhYTWdhbkFocGlPT2x1Y2lzVE5vVWZobTZCQmNOOXdxWjRlZjJYN011N3NJUHV2TC1GQ2c?oc=5",
-   "source": "ウォーカープラス",
-   "query": "GN サントリー",
-   "scope": "suntory",
-   "publishedAt": "2026-10-25T15:47:12+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Alcohol"
-   ],
-   "topics": [
-    "Ad"
-   ]
-  },
-  {
    "id": "n_953947cbb6a3",
    "title": "サントリー生ビール「絶対もらえる!!!MYサン生ジョッキ2キャンペーン」がスタート！山﨑賢人、上白石萌音、坂口憲二出演の新CMも好評オンエア中",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfZ0JBMXZCS3A5dUxDb2xTZ3VuSUdxdTk3b01GX29NYU1FNkU1NDVBMDNXazJGZ0o0eEhQWUs5VVVIQi1NeEhyTG1xdHJ4dlc4a2R0ZHA1a2tOWEw5N0dwanFvUklKSFNKYmFUd1V3?oc=5",
    "source": "ウォーカープラス",
-   "query": "GN サントリー",
+   "query": "GN 広告・CM",
    "scope": "suntory",
    "publishedAt": "2026-10-25T15:18:41+00:00",
    "summary": "",
@@ -275,6 +634,22 @@
    ]
   },
   {
+   "id": "n_5f80e5849d2b",
+   "title": "サントリーが強炭酸の新RTD投入の勝ち筋 ビール好きの嗜好を狙い撃ち",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40Qm1LUUJYWHY5cGVNMVNsSVB0Mk9Dd3Q4bGZGRXUzSW55SmhsZFloLU5VbElVQ2ZFN2VYb09weHZvUElrSWRabVd1VXJRUlU3bjUxOUdQYWhnSG50SHRxdzFLNlJTZmlXeXpPcHlVVQ?oc=5",
+   "source": "日経クロストレンド",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-25T15:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Beverage",
+    "Alcohol"
+   ],
+   "topics": []
+  },
+  {
    "id": "n_8db5f6b1fbff",
    "title": "サントリーの商品化プロセスを体感。生産研究部門 商品開発コースのインターンシップに潜入！",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCa0drNHJpaHpXYldFbm1OQ3RXSUNDVmhnNkZaNkdDSF9wRG5JQVhrc1FrNkR2OUxIZTYxMDZOd2R5MHhtN1JEVDMwbFlTaElDRHlrN1BYSXlISTRoalc1ZkVGelJIMEp3Z0tHTg?oc=5",
@@ -292,22 +667,6 @@
    ]
   },
   {
-   "id": "n_9aa27e5eea17",
-   "title": "サントリーが強炭酸の新RTD投入の勝ち筋 ビール好きの嗜好を狙い撃ち",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOW5Vdzh0eVRoZDJGNzF1Y3NYYmptWGJWTEV3VDZTalZtck5kUk5zT1p6N0dJc1FYY3hvX3B3TUFZZU83UWZkdGpMaUhySWJfZDc4Qnp0Wll5SEEtOXJHc2hNc1dCTUQ1NWQ3TlpmemtRdVNkb0Z1UlVIbVU4bHRkTmUtZ08xQlhrNUgyX2F3Y1BxYlZWMXVv?oc=5",
-   "source": "日経クロストレンド",
-   "query": "GN サントリー",
-   "scope": "suntory",
-   "publishedAt": "2026-10-25T15:00:00+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Beverage",
-    "Alcohol"
-   ],
-   "topics": []
-  },
-  {
    "id": "n_f2d6dcfd9876",
    "title": "子供の体感気温は大人より7℃も高い！サントリーが「こども気温」をもとにした熱中症対策を啓発",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PaUxobnZQbFp6MkJ2bTkzbHp6QTBXTmczbzRhUXBNaGxTcmtiamdSekJiZ3AxeFo2d184N041YlpLYXF2MWhKQmVZUVZwZDBEMktXZEt6R3JZaWl6NFljcWJmNHZEeGFIemQ5R3Bn?oc=5",
@@ -321,23 +680,6 @@
     "Society"
    ],
    "topics": []
-  },
-  {
-   "id": "n_f4efa9ec6564",
-   "title": "レアアイテムが当たるキャンペーンも展開中！ サントリー「角ハイボール」の人気を徹底調査",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhNGZxYktGcFA0ZkQ2UW00X3REbEh6Ri1xaVZ6cW5fYk1qU19wMm5peFRrOWdOSE9pb1NXaVJRUjR3UnhxZU9FNWFoa0tSUzlMUDNnclZyWC1NNHp4eHJGYURISkVjNVZk?oc=5",
-   "source": "ウォーカープラス",
-   "query": "GN サントリー",
-   "scope": "suntory",
-   "publishedAt": "2026-10-25T12:33:58+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Alcohol"
-   ],
-   "topics": [
-    "Ad"
-   ]
   },
   {
    "id": "n_9a55032abcbf",
@@ -355,53 +697,17 @@
    "topics": []
   },
   {
-   "id": "n_450edf8a0356",
-   "title": "毎日の食卓の相棒がビールへ！サントリー武蔵野ビール工場で新・金麦のおいしさを五感で楽しむ秋の限定ツアー",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrdmhGUl9WNU90cFNBSmROMTdpWTVPaXVCNDRsUERJOWU0SzRCRVc3U1ZyOVJsVEwxbFI5NW9TM3k2d3llck1kNDNCMlRLZnkyemk4Mkp1Z3ZISzVkV3FxOW5TRkZubG1JaHctUkNn?oc=5",
-   "source": "ウォーカープラス",
-   "query": "GN サントリー",
-   "scope": "suntory",
-   "publishedAt": "2026-10-25T11:50:20+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Alcohol"
-   ],
-   "topics": [
-    "Launch",
-    "Business"
-   ]
-  },
-  {
    "id": "n_33135a91ac83",
    "title": "石橋静河が現代のヒロインを熱演！発売30周年「サントリー天然水」新CM",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZdFlkcjNzRWFiV05wU25nY1pfTDRVSC1lbzdELVlEM3dNd0FlWnE1RnRya1hUWHVuZzhwdFpmTHJ6UVB1NTdpNkFZUkp6MllQYWo3cEtwWlEwOFNhaEhJZHhhaUVZdVBNVlhDV2N3?oc=5",
    "source": "ウォーカープラス",
-   "query": "GN サントリー",
+   "query": "GN 広告・CM",
    "scope": "suntory",
    "publishedAt": "2026-10-25T11:47:18+00:00",
    "summary": "",
    "related": true,
    "segments": [
     "Beverage"
-   ],
-   "topics": [
-    "Launch",
-    "Ad"
-   ]
-  },
-  {
-   "id": "n_fc4741e44b67",
-   "title": "PRイベントに天海祐希さんも登場！ サントリー「チューハイガーデン」がグランフロント大阪に期間限定オープン",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DQ1ZOR19nU081RDNyNk5QaWs5TElRYmpZMDVjV1F6bTMzcFJCc09FMmh6UWZvOXpGNkotM0UyRi04eGRiRk5OaU5lek1SQUJONERVMFE2enlmQUZITmN0TnZhd3djZUpJ?oc=5",
-   "source": "ウォーカープラス",
-   "query": "GN サントリー",
-   "scope": "suntory",
-   "publishedAt": "2026-10-25T11:36:17+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Alcohol"
    ],
    "topics": [
     "Launch",
@@ -458,6 +764,23 @@
    ]
   },
   {
+   "id": "n_8b5f0eb614c2",
+   "title": "サントリー史上最高！アルコール度数12％の“強刺激チューハイ”発売",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mSDNOS1lHZFM2eWtNeFF5aFVsdHJmTmxHQXZlQzN6aGpKcHVJVS1oQlJUelBmTEZDMG16VktsQ1hSWGxyZ3BHYUItWF9TQi13YzZN0gFYQVVfeXFMTVZid1liTzVWWldQNE9LaW1KWGpZS1paLThJV2NoenpQcEhlX2V2bWQ0d3RtdVczRDNfVmU0SGpfQnp6Wld5LXdMZ0pHUmpLX3NhZXRKTTJ1Yg?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 新商品",
+   "scope": "suntory",
+   "publishedAt": "2026-10-25T07:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Launch"
+   ]
+  },
+  {
    "id": "n_771e7ace5ab2",
    "title": "サントリー「角瓶」が80周年！ ロングセラーの秘密に迫る",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtU0otSGM1TVNJWk9EaTdZMzNFMTNySjRlcXROY1oyRXA2MEFEVUxSUnBNMHB0ZllYU0k4ckRCMnRTdEFiZTRvNXdqUWVIeXFkenZMN3VMQjgtVG1vaXdRLXZYa3JMRmF3bUE?oc=5",
@@ -490,6 +813,23 @@
    ]
   },
   {
+   "id": "n_a31b1246137a",
+   "title": "さゆりんごが浅野忠信のギター役に志願!?ビール好きのヒコロヒーも感動するサントリーのノンアルビール「ザ・ベゼルズ」のCM放送が開始！",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wRmNCY1JpZWxQQTNpTG9mdFJEZEFveG1DbkdSRVBETW5DdnBWdk5tYlZVN3Q5UkVIQ1lPbWdUQ2pkMWpSZnlsdjJRTVVSZl9HVklfR0hydzBZcEFvY1RrNTZhVXROYS1UOTd3anpwVmRSV0h3MzRZUkY4enlHWFk?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 広告・CM",
+   "scope": "suntory",
+   "publishedAt": "2026-10-25T03:44:14+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Ad"
+   ]
+  },
+  {
    "id": "n_4dc853622519",
    "title": "サントリー天然水550mlペットボトル国産最軽量を実現！",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5razlOZ3FOa2Foay1GT2FJRVZGeFZmeWhET256V2doMXpGQWt5SGZ2aUt1SlpVVVM4UmN6ck9CeUxSVVl5dTNqUURiRjA0Z1hVN2V4eERwWkZUak40azREQ1I0QmFBNDR4?oc=5",
@@ -503,25 +843,6 @@
     "Beverage"
    ],
    "topics": []
-  },
-  {
-   "id": "n_a3a13911fb6e",
-   "title": "サントリー〈天然水のビール工場〉京都ブルワリーの工場見学がリニューアル！天然水と神泡の秘密が学べる",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OMDdXZ0lBRFpqWFpjR3IzX2pLbnhYSGF0aFVlM2UzTHJvREpRLVRpRVJwVVlXa1ZuOHdZWHRVMTVCa2s5VjVKN0x1YWM2TldwNjFLb051elgxV2tIeUg4Y3JvOFAxYV9ELTdr?oc=5",
-   "source": "ウォーカープラス",
-   "query": "GN サントリー",
-   "scope": "suntory",
-   "publishedAt": "2026-10-25T01:34:21+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Beverage",
-    "Alcohol"
-   ],
-   "topics": [
-    "Launch",
-    "Business"
-   ]
   },
   {
    "id": "n_fc92ff750663",
@@ -593,6 +914,23 @@
    ]
   },
   {
+   "id": "n_79ca44f86c23",
+   "title": "レアアイテムが当たるキャンペーンも展開中！ サントリー「角ハイボール」の人気を徹底調査",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGaE1sLWROWlR5c0d4Y3hCZENQMWlFY1NLQ1NDLWc2M1JMeDRTRk03UDd0YlRHREFtNjJ2VjRDTjlpQ01Wak5wcW5DREVTaC1qV0Vza1Q5NmJtWkU2SWZ4OFBvQndsUnp6?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 広告・CM",
+   "scope": "suntory",
+   "publishedAt": "2026-10-24T22:16:46+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Ad"
+   ]
+  },
+  {
    "id": "n_4c872a28bdd2",
    "title": "伝統継承、栄誉を報告 サントリー地域文化賞 請戸芸能保存会、町長に",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05VFM1S0FETVJXZ0wzV1phLWJaWTVrWGlZRFpfdFc4Y1pHbldmWWMtNFRQZmp4d05HT0FrUHlpRFJ0S0VxNnM3MUpKSmRzdG8?oc=5",
@@ -612,7 +950,7 @@
    "title": "「ギルティ炭酸 NOPE」出荷本数1億本を突破、サントリー飲料新商品で令和最速スピード",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JbUJkSXNQV0JrQ25pUU9NT2VLYXpGNDZfLVIzRWoxemhPeG5uclFGcFZzZGkxMHpveVQwa1hRNnFmNHRQcWpTUDVqMFY2aTRwT05uQ3R6WGk?oc=5",
    "source": "山陽新聞",
-   "query": "GN サントリー",
+   "query": "GN 新商品",
    "scope": "suntory",
    "publishedAt": "2026-10-24T16:20:57+00:00",
    "summary": "",
@@ -676,25 +1014,6 @@
    ]
   },
   {
-   "id": "n_90ff38313d7d",
-   "title": "アルピー平子扮する“意識高い系IT社長”瀬良明正×サントリー天然水、まさかのコラボ第2弾が実現",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jU05Ral8zTzEtSzNUcXBZeENnbFFWR09WM052bW9iZEd2UTNHWUdINnJnVTdhZVltbzlBQ0IwM0l6ak55aS14TWJFNE9PZ0dSNS1TS21CN3NDNTI4cmFibWVTRkp6TFd6WEE?oc=5",
-   "source": "ウォーカープラス",
-   "query": "GN 経営",
-   "scope": "suntory",
-   "publishedAt": "2026-10-24T11:18:37+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Beverage",
-    "Corporate"
-   ],
-   "topics": [
-    "Ad",
-    "Business"
-   ]
-  },
-  {
    "id": "n_5b246b8543a5",
    "title": "UCC、ネオ屋台村で100％コーヒー由来の「おいしい血糖値ケア」配布 対象はおにぎりや麺類など糖質を多く含む食事を好む人",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUJPRWdSSFhmQmR6bTZtc29FQi1FaWpxd3hXeGptTDhEbkl1SlAwU1lFeldSTjRJWEZqRVdDdFRnVEtJcWJhR2xfNnhqemZhOGlCV0h6RnI1U2lNZXlXYmpMQ1JuRjlxak5DRmJLWUtYVERzeXd0dGw0NDRPbjg1OWw1OE02SFZjcWhuME51cHpZMy1BQm40aDhrQ0k5dw?oc=5",
@@ -706,21 +1025,6 @@
    "related": false,
    "segments": [
     "Industry"
-   ],
-   "topics": []
-  },
-  {
-   "id": "n_6ff45a36ce68",
-   "title": "ビール会社のビアガーデンに注目！「サントリー屋上ビアガーデン」大阪・西梅田",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53ZkdYcGRwbVQ2M2llcW9vZmZLRTFheXVGc3VlTVFaRlhUdGhKZEdYcFhpYUdDbnNZTC1mdEtLSE40SGE5RG1RUy05cGVBUkdfWkw1eFNKVm1ZNlJVeTUxb3pRWVF4WkZNNXc?oc=5",
-   "source": "ウォーカープラス",
-   "query": "GN 酒類",
-   "scope": "suntory",
-   "publishedAt": "2026-10-24T10:04:15+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Alcohol"
    ],
    "topics": []
   },
@@ -757,10 +1061,25 @@
    ]
   },
   {
-   "id": "n_be96fd659c82",
-   "title": "サントリー・高橋塁がセクシャルマイノリティ公表後初の公式戦出場「不安も大きかった」 (デイリースポーツ)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWhDU3kzb0dsVEZsNXdYbjQwclhzN2tDMlQyTXpqU3ROcGlVckNKUVRoVkI5TjF4Y1YxNndUY0diZ0EzUlNzNFhLRjA0VjVqejFURThBMHU0MHpQbTRBTkxIUnY3U1huUm96RWdRRldyQnhfT3lINUMtdGY4a1hrVzR6RjV1eUNlNW80d0ZR?oc=5",
+   "id": "n_8a0da857f296",
+   "title": "サントリー・高橋塁がセクシャルマイノリティ公表後初の公式戦出場「不安も大きかった」（デイリースポーツ）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdklvVHpQVVFyUlRIVVB4N2NBLVNYQzRCVjVEVklCbEkzUkh1QmphenJyeFpOOXdjMEhlQTRjT0llT0dNR2htbXliVnN3N29Na1diSEE1RW9zRFE5UmpSMl9Vb3JoeHFXNmRrbmFPX3FLbWtreXN0M0stMk1xTFk?oc=5",
    "source": "Yahoo!ニュース",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-24T07:14:34+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Other"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_bbfcbc9afabf",
+   "title": "サントリー高橋塁が公表後初の公式戦に出場、塁コールを受け心境を語る (2026年10月24日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4blRIV2NvUFc4WUY0ck52V0l0SzBHbVN2MjQ4UUk5Xy1ZbXlOVDFYYk1LeVVhVGpaRGNiVEtuVS0yeTB1RzNuaGZjRFNZZ18zWmRwcUNNNUIyQ2luUkE?oc=5",
+   "source": "ライブドアニュース",
    "query": "GN サントリー",
    "scope": "suntory",
    "publishedAt": "2026-10-24T07:14:34+00:00",
@@ -783,6 +1102,39 @@
    "related": true,
    "segments": [
     "Other"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_1dcabf193afa",
+   "title": "サントリーの“飲料”が主ではない“推し活”自販機が好調 売上3倍ペースで急成長",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Qdi01cDRjTzdGYThYRWFLX2gzb3lnRTVjY3BIdkVjODdNRE5lSVJ0TWEzb09lN0QyRGI1NGNFV0E3RXZucEtyRFVxNG9FdldUT1VhckZXTHo?oc=5",
+   "source": "山陽新聞",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-24T07:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Beverage",
+    "Corporate"
+   ],
+   "topics": [
+    "Business"
+   ]
+  },
+  {
+   "id": "n_0324e5a50765",
+   "title": "酷暑の夏の水分補給は「持ち運べる大容量」！サントリー天然水の1Lペットボトルがスリム化した理由は？",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByQ1JHR0E4SmRTVXU4anpocjNTT0FPSlNXb3E2a0RlT29QbXhNWUItZVZJMVZuM21GbHBOeUsxV2lfTzA0dlNVbkRaQVdqNFNWeEpPemd30gFbQVVfeXFMTnZiTkZZc1dqUExuSG9nNGhfTEZkd3JxUG5xbWVNOTZZX2JlRklHRWg5U3JCb0xsNXhiT2FkdlV3THJ3c0lLUEJzWUduT2pic2xtaFNjNjQ3T3Zpaw?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN サントリー",
+   "scope": "suntory",
+   "publishedAt": "2026-10-24T07:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Beverage"
    ],
    "topics": []
   },
@@ -862,7 +1214,7 @@
    "title": "ほろよい ＜焼きりんご＞（サントリー）2026年11月4日発売",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tZlktTFdZd2hvQVFtRzBrWWZTQVVzemlRTnc5QmNUMnRMbTZmWklZMjFQSTBxYUV5UXZGTkhwNkM4ZFZ4aVpVQi1nOXRIVDlQUFVpR2dFZm5xWW8?oc=5",
    "source": "日本食糧新聞・電子版",
-   "query": "GN サントリー",
+   "query": "GN 新商品",
    "scope": "suntory",
    "publishedAt": "2026-10-24T00:11:37+00:00",
    "summary": "",
@@ -911,7 +1263,7 @@
    "title": "ひざ肌W コラーゲン＆セラミド（サントリーウエルネス）2026年9月15日発売",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wQjZySE02UWoxaGpUanNJZlVJOEFieXhOMF9FeG5ZLXpuMF9VVWlUSVNBaFRXZnBTN2tXejlVeDJFaHFGMGlJYVdjRFd5VXVfeWJCUGFwREJoRnc?oc=5",
    "source": "日本食糧新聞・電子版",
-   "query": "GN サントリー",
+   "query": "GN ウエルネスブランド",
    "scope": "suntory",
    "publishedAt": "2026-10-23T22:42:36+00:00",
    "summary": "",
@@ -945,7 +1297,7 @@
    "title": "酸化防止剤無添加のおいしいワイン。スパークリング ＜糖類ゼロ＞（サントリー）2026年10月6日発売",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkMlZxU0ZWRUd5ZW1oM2J1RXVrZUVFZkVBb0lrM2YtU0oyTDlORk5DcThwYlNySWNyekJHZ0liZWxzbFA1LTg4cUhJWlJMMWdodEtOUlNTOXJsUFlGLUNn?oc=5",
    "source": "日本食糧新聞・電子版",
-   "query": "GN サントリー",
+   "query": "GN 新商品",
    "scope": "suntory",
    "publishedAt": "2026-10-23T22:27:36+00:00",
    "summary": "",
@@ -1039,6 +1391,23 @@
     "Alcohol"
    ],
    "topics": []
+  },
+  {
+   "id": "n_df692e3af746",
+   "title": "サントリー、ビール党狙う“異色の缶チューハイ”発売へ 強刺激で「物足りなさ」解消",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqNHkyNlFvSU5qWFo3aXVuUnlVLUN2aEhRcFdHWENiSTBDQTF6Q05MSzdKR0EycXozRWZzZWN4MTg2WTBVVEg2cmJZVQ?oc=5",
+   "source": "オトナンサー",
+   "query": "GN 酒類",
+   "scope": "suntory",
+   "publishedAt": "2026-10-23T08:10:33+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Launch"
+   ]
   },
   {
    "id": "n_38ddf092ca03",
@@ -1274,6 +1643,21 @@
    ]
   },
   {
+   "id": "n_9779c2938cbd",
+   "title": "グループにおける健康経営の「いま」がわかる「健康白書2026」を更新 - トピックス - サントリーの人本主義 サントリー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15eHZCZmJFNHRvRzA2YUd6ZlJWd1ltcFZha3Q0WkdsaHhXamFDbk9FOHV3NVJYcE41NmFxU3Bfd1RhczloTEZGNUpnaXZ2YTc4SEdmQjY2MVhua3JPS25UTXVLQWVITmJEbVZyT2h6YkI4T3IzQ1J6bnB1TTI?oc=5",
+   "source": "サントリーホールディングス",
+   "query": "GN 経営",
+   "scope": "suntory",
+   "publishedAt": "2026-10-23T01:04:51+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Other"
+   ],
+   "topics": []
+  },
+  {
    "id": "n_493378ff4252",
    "title": "UHA味覚糖「グミサプリ」、サプリメントグミ市場を独走 海外展開も (食品産業新聞社ニュースWEB)",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWxacmx1VWxmakdub0xpaTY3UXYyR2pQZENLQk5XVnNsUk5pVU1VX1J1Sjg4WjFzb0NTQ3RJOTJ3d1lVTW5uSmJyTW1IbmdmN0d0QUVVUHN5c2puVm15TjgxZjhMc3dvTnFrZGM3ZElvQS1pNkVZblNIeDVfTGYxYkxHeGJWTjBNd2tBSUVB?oc=5",
@@ -1342,9 +1726,9 @@
    ]
   },
   {
-   "id": "n_2d0ac14ec4c5",
-   "title": "【画像】UHA味覚糖「グミサプリ」、サプリメントグミ市場を独走 海外展開も 3/3",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OME54LTFTTGJmaS1KYTJTdnJJSzFWaDI0T1VlVF9fOUxhZzB5SmtxckhpSWhjbG15aEdRRV9DRXgyNWczZHV0dFJ0bF84aG9TZFpuQ2VJdVRXS1RQQ3JQQjJXWWt6QVh0N2Z2eUJ5Rkw3SE9iMWhUWkFCN3k?oc=5",
+   "id": "n_3237ceb91aff",
+   "title": "【画像】UHA味覚糖「グミサプリ」、サプリメントグミ市場を独走 海外展開も 2/3",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GVUZUMG9HNEtjVEE0TDc0djljU29pUkpCUnZKT1YtLUp1dVRwOEQtZTBWNUh5Wms4OW9EdkNYTU9nOWR6VmR2UUE4b2ZZSTI1Y3NCS0VmVmh2QkRtVmF2Rk5zR1hGNEFrSGo0LUxKRUlLQS1xaDdkUFJHMnc?oc=5",
    "source": "ライブドアニュース",
    "query": "GN 健康食品市場",
    "scope": "industry",
@@ -1359,9 +1743,9 @@
    ]
   },
   {
-   "id": "n_3237ceb91aff",
-   "title": "【画像】UHA味覚糖「グミサプリ」、サプリメントグミ市場を独走 海外展開も 2/3",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GVUZUMG9HNEtjVEE0TDc0djljU29pUkpCUnZKT1YtLUp1dVRwOEQtZTBWNUh5Wms4OW9EdkNYTU9nOWR6VmR2UUE4b2ZZSTI1Y3NCS0VmVmh2QkRtVmF2Rk5zR1hGNEFrSGo0LUxKRUlLQS1xaDdkUFJHMnc?oc=5",
+   "id": "n_2d0ac14ec4c5",
+   "title": "【画像】UHA味覚糖「グミサプリ」、サプリメントグミ市場を独走 海外展開も 3/3",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OME54LTFTTGJmaS1KYTJTdnJJSzFWaDI0T1VlVF9fOUxhZzB5SmtxckhpSWhjbG15aEdRRV9DRXgyNWczZHV0dFJ0bF84aG9TZFpuQ2VJdVRXS1RQQ3JQQjJXWWt6QVh0N2Z2eUJ5Rkw3SE9iMWhUWkFCN3k?oc=5",
    "source": "ライブドアニュース",
    "query": "GN 健康食品市場",
    "scope": "industry",
@@ -1441,6 +1825,24 @@
    ],
    "topics": [
     "Business"
+   ]
+  },
+  {
+   "id": "n_f091a91d873d",
+   "title": "PRイベントに天海祐希さんも登場！ サントリー「チューハイガーデン」がグランフロント大阪に期間限定オープン",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wV3JYQXRYMTBoLTFHTlc0SjBhc28yRkxoRmhhQnIwVmczNGk0NVNZWTdqdDR1T1UwMFV1Ni02ZlkxS0JrUnh0WmVFMEVvUGhNOWRXWFhXbHZCYVZHcnFtUmlMMm5GZm8z?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 酒類",
+   "scope": "suntory",
+   "publishedAt": "2026-10-22T19:02:18+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Launch",
+    "Ad"
    ]
   },
   {
@@ -1609,6 +2011,21 @@
    ]
   },
   {
+   "id": "n_e9c2242ab32e",
+   "title": "日本医師会が健食の活用で提言、適切な利用に向けた課題整理",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLUprckFKMDBjNUd4TG1jQzhGYUtkejdDMGpMM3lOMFZxY1VjNzkxakVGeU1aR1ZuejJfVmhMOE4yVERhRndGQVp2NUlQZUpURXFkQml1OE9pX1BlcF8w?oc=5",
+   "source": "通販新聞社",
+   "query": "GN 健康食品市場",
+   "scope": "industry",
+   "publishedAt": "2026-10-22T05:10:59+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": []
+  },
+  {
    "id": "n_6cb9fcb062ba",
    "title": "アサヒ、サッポロ、サントリー…サイトやサービスの一部を一時停止 PHP問題対応で（産経新聞）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RZXlpVENSVzV0SGZhZmVoVXZZSEZndTJDX2FYcXJ5Mk5OLTBwT2k3b1lZR3VhZTVIRWt6bHE5cC1vbXNlRjA4eWtRNEpNOExGSzE5SFFTbXFPNnRxTnU0T09vUXFDbkFOa1lxR2h6LS1pN2Jhc0t5SWZTNGZMTlk?oc=5",
@@ -1639,29 +2056,11 @@
    "topics": []
   },
   {
-   "id": "n_40d62d05bf2e",
-   "title": "新CMや体験イベントで「ROKU〈六〉」と「翠（SUI）」の魅力発信！ジン市場の拡大を狙うサントリーの戦略とは",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04T3VWMGU5VWdiOUtNOUpiSUtjZTk5M3N4eVdZbkFKZ29zdWh5TnljdWdSZ0ZCSEhVWEtHdm1yYWRqazIwVU4tWXdSZFYxTjc4cUZaYWdETDlRZkhWa3puNWtWSU1ObVA5Ti12dV93?oc=5",
-   "source": "ウォーカープラス",
-   "query": "GN 広告・CM",
-   "scope": "suntory",
-   "publishedAt": "2026-10-22T04:24:45+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Alcohol"
-   ],
-   "topics": [
-    "Ad",
-    "Business"
-   ]
-  },
-  {
    "id": "n_a320e2b8d724",
    "title": "独植物エキスメーカー、日本に照準 医薬品で実績のフィンツェルベルク、機能性表示への対応も視野",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IWVRaaExVQ2VuSkZONkd6Skc5WW5WcXd3bmItZ0hfN0cxSDFGWG1vNGo4S2NTUW9pc1ZGcDdGM01QR0hVNGM5dHVJbURhS0xsakYyai1R?oc=5",
    "source": "ウェルネスデイリーニュース",
-   "query": "GN 健康食品市場",
+   "query": "GN 機能性表示食品",
    "scope": "industry",
    "publishedAt": "2026-10-22T04:03:17+00:00",
    "summary": "",
@@ -1706,6 +2105,24 @@
    ]
   },
   {
+   "id": "n_c981dbccbc7c",
+   "title": "“機能が見える”新サプリメントブランド【スマートX（スマートクロス）】誕生。10月16日機能性表示食品3商品を発売（株式会社野口医学研究所）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUkFkdHlHRDdRZldrYWd3RU9DbXlBcXRTNm1GaEJBMWhjbDFTbzFzd25QNjVtNlh3QS1zRW5wNGdGcnRoM1lvZEtqYnZELWxEemF6S1diVVNwbXpxMGNLRDY2WmdTd0o0ckdhS3paVXFqQU5zZEdEeWUzNGtPRzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "query": "GN 機能性表示食品",
+   "scope": "industry",
+   "publishedAt": "2026-10-22T01:10:01+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": [
+    "Launch",
+    "Research"
+   ]
+  },
+  {
    "id": "n_90228e6dc618",
    "title": "サントリー、ラーメンとの相性を追求したノンアルビール「珠玉の一杯」限定発売。YouTuber・SUSURU氏とコラボ",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15b2R4d1VDUUU3OEZyOFVDUXRNbW9Tc2lJSlRaUEx5UF8weVkzOVFNd2FJb21UOGlhN2pDUHpiRzVYdVA2ZTdCOS1OMnl1a2VJQVRmUGMtVXB5VFJ5YW9PUzlRbVVIUVE2Vmc?oc=5",
@@ -1721,6 +2138,23 @@
    "topics": [
     "Launch",
     "Ad"
+   ]
+  },
+  {
+   "id": "n_16ae5279b927",
+   "title": "森永製菓、機能性表示食品カカオの力ピーナッツチョコレートを10月6日発売へ",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEQXdicDBlQ1FoWGVueHJtWmhxa3NFdnpReVo1WjJsQlVYSlNxNWdyaDJLTTFzcGE5VEpNMmhZZWt2VnNydEE?oc=5",
+   "source": "Dellows News",
+   "query": "GN 機能性表示食品",
+   "scope": "industry",
+   "publishedAt": "2026-10-22T00:35:18+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
+   ],
+   "topics": [
+    "Launch"
    ]
   },
   {
@@ -1758,13 +2192,13 @@
    ]
   },
   {
-   "id": "n_135729a2e1ec",
+   "id": "n_3715c521fedb",
    "title": "ヨーグルト飲料、血糖、睡眠、脂肪に照準 機能性表示、継続しやすく【経済トレンド／気になる商品】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DbTZDNXhsbF9mbkFORDBEazBzdFBkdzZhSHEtTHlQUllKNjJLZkxiNnlNbGFtN1dLNkQ0dWZzOFF4dlBfQ01Qa0U1Rzk2UQ?oc=5",
-   "source": "NEWSjp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fOEk3WjZZc3lKX0Z2cmNOLW5oUHZKLWtfRC1jMy1QQWpUS3R0NmxER3ZodUhQaTNTYU5aaHNWZGxwQjVZWEdjcUUtRQ?oc=5",
+   "source": "47NEWS",
    "query": "GN 機能性表示食品",
    "scope": "industry",
-   "publishedAt": "2026-10-21T20:00:30+00:00",
+   "publishedAt": "2026-10-21T20:04:00+00:00",
    "summary": "",
    "related": false,
    "segments": [
@@ -1801,6 +2235,21 @@
    "related": true,
    "segments": [
     "Alcohol"
+   ],
+   "topics": []
+  },
+  {
+   "id": "n_bac0921d7fe8",
+   "title": "買い物とスポーツ観戦で地域を盛り上げよう！ 対象商品を買うと観戦チケット当たる きょう21日から《ベイシア×ザスパ×サントリー》 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96d0JoNzhuYXpLREJMazl3dkhXLWVod0trUWgybGJ4M0FpazhRTzF4RTBwWkZjYVVxRkkwc2h0aUdCanVWRERzTnlZeUdhWG1NNlR6LXh2cm9XUQ?oc=5",
+   "source": "上毛新聞電子版",
+   "query": "GN 広告・CM",
+   "scope": "suntory",
+   "publishedAt": "2026-10-21T11:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Society"
    ],
    "topics": []
   },
@@ -1879,6 +2328,41 @@
    "segments": [
     "Beverage",
     "Alcohol"
+   ],
+   "topics": [
+    "Launch"
+   ]
+  },
+  {
+   "id": "n_538010392182",
+   "title": "毎日の食卓の相棒がビールへ！サントリー武蔵野ビール工場で新・金麦のおいしさを五感で楽しむ秋の限定ツアー",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XN3lCbWVsMXNwNUxNMm15YnJWeFpLTTI2Y1JMTzFUTkcxeGM1QUVOdS1tbE1IejJ5VjJvWGthbmVpUG5lN3FqYjBLeDhrV3Y0MzB0R0xn0gFbQVVfeXFMTW9vTmZ0UURnODh5OEp4NHJ4WE5mSTdfanZDUlhpOER2WFI2YTZwZGVBaF9OTFNZQjdiYjZJd1E0SHFpRkhfRVJPVW5jbGt3clozREwwOUtJTXY1OA?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 酒類",
+   "scope": "suntory",
+   "publishedAt": "2026-10-21T07:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Launch",
+    "Business"
+   ]
+  },
+  {
+   "id": "n_8b336894ad15",
+   "title": "正月太り解消のカギは「安静時」にアリ!?日本初の“ダブル効果”で太りにくい体へ！注目の機能性ヨーグルトが新発売",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JLVJTekUtWmU2NjN0VEFudFphQmZaa0pkQkdsU2lISUxqTFM4ejdhWXJ1MXhoRTdwRWlrMnRPZl9TUGxvbTlQTDlMbGYycmFJeGw0VDdB0gFbQVVfeXFMTnhsWmVNbVZodDdMU1pWUmMzSEpJTVd4NDcxaF9hSXZDdXRQZmZOM3dyY1c1OV85aVhmQWVqYnNfSExHMTNsemlWdnFEYVdidDR4Y294ZmJlZlIzUQ?oc=5",
+   "source": "ウォーカープラス",
+   "query": "GN 機能性表示食品",
+   "scope": "industry",
+   "publishedAt": "2026-10-21T07:00:00+00:00",
+   "summary": "",
+   "related": false,
+   "segments": [
+    "Industry"
    ],
    "topics": [
     "Launch"
@@ -2071,7 +2555,7 @@
   },
   {
    "id": "n_4779a61b723f",
-   "title": "【動画】河合優実が出演、「サントリー生ビール」新CM",
+   "title": "【動画】河合優実が出演、「サントリー生ビール」新CM（メイキング インタビュー）",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wLUx5QXJkWDB6cjRrckdCLTJtWVU1N05Ja19qTl9IZWw3ODM4X3REWmFickg5aHFiaWthSFFPYlhvNmlIRlowc3E5Zm1wbkU?oc=5",
    "source": "時事通信ニュース",
    "query": "GN 広告・CM",
@@ -2100,6 +2584,23 @@
     "Other"
    ],
    "topics": []
+  },
+  {
+   "id": "n_bc07161f5633",
+   "title": "河合優実がサウナを感じて、生き返る サントリー生ビールの新テレビCM解禁（映画ナタリー）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wcGI3ZHZkUEdqX1RKYVRCSUNZX1F4NVhqZmtUbzBwRHRvaHRNTUtSSG9HRFNFVHZQTFRpbTJyTzd5R2J1bm9idE9BVGZubHdLc0ZNUUk4NmJIUko1ZnlNZi1Xb2tjU192ZEQ0Nm9aaEhuWDRLTTlLcVRZMjlNeDA?oc=5",
+   "source": "Yahoo!ニュース",
+   "query": "GN 酒類",
+   "scope": "suntory",
+   "publishedAt": "2026-10-20T19:00:18+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": [
+    "Ad"
+   ]
   },
   {
    "id": "n_2e9b5bd43950",
@@ -2136,10 +2637,10 @@
    ]
   },
   {
-   "id": "n_23b948a7c5ec",
+   "id": "n_9d94fc307ec5",
    "title": "「サントリー生ビール」新TV-CM サウナ好きの河合優実さんが絶景サウナを満喫 水風呂の沁みわたる爽快感に思わず「はぁ～～っ…！」",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43QlFkSlJSblJzTWp5MGdHZkNGRW54UlN1RTVOUDY4YVR2SE10NUJIQ1F4NEJRRnU0eTY2bXFLV3dLdUVaaEpXV18xcHVSTWdvajVETG9SYlFHUDZlcXdLbjZWZlJOLWpVSnZoTUFIMmE?oc=5",
-   "source": "東京バーゲンマニア",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IaTFMRkFjNTAwUklUbWxhUFpxYnRlU29NV2RxY1ZSWDd5M3E5cHNTMkV2Wi12VkZiOGhFbDQ5TGhqMFYxWkdXNDZyU1dvLV95YWlwTmZ6UjZfWGVFb2lSd2xVM3R0WmFRY0l1RmFFSUwyZw?oc=5",
+   "source": "宮崎日日新聞",
    "query": "GN 広告・CM",
    "scope": "suntory",
    "publishedAt": "2026-10-20T19:00:00+00:00",
@@ -2170,9 +2671,9 @@
    ]
   },
   {
-   "id": "n_6180f0320a16",
+   "id": "n_df746a8db634",
    "title": "売上2割増、なぜサントリーはヘラルボニーを選んだのか",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxV1JWSVphSDJDSkJ0a0t5cl9aVWdVQWVoanh1RE9FbjM3ckY0dnJHSVpmWmc4YzBPMUJ1WFY4SnNUZjdxLWZfOEFGX1ZnZTF3RTRpb0NuQUtjcWZzRnFIYVZDcExXVFR0V3ZtRTgzTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EbTB2bkhySlBGQjVkNC1FczVLMmhSUXBGT0ZDem5tZkZzWkVRVk1ubkZyQXZxWlFNNXctUjhTX0xSbzcxdHp3clFqbnZlY05LQ3FkZXFZVGd1RFZqdlpaWEh3NW1zSW9pRWc?oc=5",
    "source": "日経クロストレンド",
    "query": "GN 経営",
    "scope": "suntory",
@@ -2338,6 +2839,21 @@
    ]
   },
   {
+   "id": "n_f01dba1d73df",
+   "title": "「山崎」の原酒樽で熟成したビールを試飲! サントリー、武蔵野・京都で特別ツアー",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JbjhPOVRubGVMWUUxRS1zNXc2cUZxRkxacjJrSHNPdXBqSERZd3pUb0F3dkk5bEUzX2tuc0QxbkttWm1jWWE2Smt6cG90VURsZXNyTw?oc=5",
+   "source": "ニコニコニュース",
+   "query": "GN 酒類",
+   "scope": "suntory",
+   "publishedAt": "2026-10-20T01:30:24+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Alcohol"
+   ],
+   "topics": []
+  },
+  {
    "id": "n_4560da3bf3e2",
    "title": "アサヒ、キリン、サッポロ、サントリーを脅かす...セブンやドンキの「激安PBビール」その生産地は？（ダイヤモンド・オンライン）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGOUpYYnRmY3pETTBkUjdCVkNNU3lRRU5odEt5UkJmZzJTT2NveEVTZ0dvU3ZrMGp0Z0k5X3lMUmR6WjA2alRiQmZzQlFIdWw5QjF2MHp5VFV4Wk9YSG5oYks0aElCUEtOTTlwNEQ1NlIyWDl6NExIMUE1Y3UyaDQ?oc=5",
@@ -2402,21 +2918,6 @@
    "topics": []
   },
   {
-   "id": "n_fdf568e74fc8",
-   "title": "「山崎」の原酒樽で熟成したビールを試飲! サントリー、武蔵野・京都で特別ツアー",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CMEV1NnB5c1NVM2xSTzYzV3ZXN3ktdjlPS2VCcElpbGZfcEhTVU1iNFZvYlMzRmZuNVlpTERsR3VXS0dQZTRJWW5PQl9TZFNlNnBmNzJ1eXBsUWtSUnNsVmhMYWtNeTQ?oc=5",
-   "source": "マイナビニュース",
-   "query": "GN 酒類",
-   "scope": "suntory",
-   "publishedAt": "2026-10-20T00:30:00+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Alcohol"
-   ],
-   "topics": []
-  },
-  {
    "id": "n_89fc31bb971b",
    "title": "サントリー「ザ・プレミアム・モルツ おいしさ発見ツアー」を実施。“山崎原酒樽熟成”のマスターズドリームも試飲で用意",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBacU8tUG55d05vVlZYMk9zQlhLU1lqODhjRWstLTJYRXpBRVg1ZXhYVGZTYTdHUkpYZklSTWs4Ui1KdHBabkZFdXlCd3Y0eEpYcjBjSHpvdDdJTTNVZ21NRWVRRnpncFg3Z1E?oc=5",
@@ -2462,23 +2963,6 @@
     "Society"
    ],
    "topics": []
-  },
-  {
-   "id": "n_11de790bfc71",
-   "title": "サントリー、ビール好き向けの新RTD「THE DRY」を10月20日発売！“刺激感”“喉で味わう”RTDの新カテゴリ",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlbXdBanVYYVBwazdTeWRZUFQxNTZWdUVjVl9pXy1la2FVbVNZbFFYX1BYQmt5d0I1MkNVRHduZjJGN1lEQS1HcU1pVEJVd3doLTdpV05B0gFbQVVfeXFMTjQyNmEtUkRKRVpVZEhPTTJJU2c4RjJicjB4QTlkRjM2QWpsQldDUXFJMXFON1YxQnhFZG9DbktNT2dRZWJpcUR3UWg1UFZCX25QU0ZqVXBoV0RTQQ?oc=5",
-   "source": "ウォーカープラス",
-   "query": "GN 新商品",
-   "scope": "suntory",
-   "publishedAt": "2026-10-19T07:00:00+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Alcohol"
-   ],
-   "topics": [
-    "Launch"
-   ]
   },
   {
    "id": "n_1112f467c651",
@@ -2595,30 +3079,47 @@
    ]
   },
   {
-   "id": "n_e3dccbe1a4a8",
-   "title": "近畿エリア キャンペーン・イベント情報｜サントリー",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yLTluMFI3OVl0VkRGV0txaVVFZXRUU1VkWGtaUFpVWjdZbXgxVHRGWllQSWIyQUdZc0JjREFNTEU2ODRtaVlfdDFlRmZNMHhDWkxHWGRVWno?oc=5",
-   "source": "サントリーホールディングス",
-   "query": "GN サントリーウエルネス",
-   "scope": "suntory",
-   "publishedAt": "2026-09-21T07:00:00+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Other"
-   ],
-   "topics": [
-    "Ad"
-   ]
-  },
-  {
    "id": "n_b44621d09c1c",
    "title": "サントリーW、新たな機能性表示食品 3つの機能性関与成分、「ひざ肌Ｗ コラーゲン＆セラミド」発売",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2SUMwZ01TdVBmb0FBMGpZY1NmaG1JUVMtbGlWbDQzZS1aVlI0NjBGN2lVU05RVXdaY1UwYUNZNHBlbnlrTnhZM212WTlMWUxsYzQyNGRR?oc=5",
    "source": "ウェルネスデイリーニュース",
-   "query": "GN サントリーウエルネス",
+   "query": "GN ウエルネスブランド",
    "scope": "suntory",
    "publishedAt": "2026-09-16T07:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Wellness"
+   ],
+   "topics": [
+    "Launch"
+   ]
+  },
+  {
+   "id": "n_87d2e2970356",
+   "title": "ひざ関節の動きと肌の乾燥に着目した機能性表示食品 「ひざ肌W(ダブル) コラーゲン＆セラミド」新発売",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zTUVSRkxZLXJEejVGSDFBdVV3ZmdXWXJQdVpHMUk0TnJhbW5POGFyaHVEcHhRd0FQbUljdm5TMDhsZG5pdXFFU1NWa1pQaG84QUtVQnk3X1R4Y3lSVmVlUmhkckY?oc=5",
+   "source": "サントリーホールディングス",
+   "query": "GN ウエルネスブランド",
+   "scope": "suntory",
+   "publishedAt": "2026-09-15T07:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Wellness"
+   ],
+   "topics": [
+    "Launch"
+   ]
+  },
+  {
+   "id": "n_c5ec0c8cd024",
+   "title": "ひざ関節の動きと肌の乾燥に着目した機能性表示食品「ひざ肌Ｗ(ダブル) コラーゲン＆セラミド」新発売",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZZ1dLaExlVGhwd1A5RUh3X2NaZ01ybXllR3YwdVNUbkNaVDNQQXNPamx4MnlQRjNNMUt0UDY0djhabnZ1SW44RXpXTXE2YWpMMzBfaTRLZnprX3BjOU9CaFNpOWZ4QTk1aXc?oc=5",
+   "source": "PR TIMES",
+   "query": "GN ウエルネスブランド",
+   "scope": "suntory",
+   "publishedAt": "2026-09-15T07:00:00+00:00",
    "summary": "",
    "related": true,
    "segments": [
@@ -2659,40 +3160,6 @@
     "Wellness"
    ],
    "topics": []
-  },
-  {
-   "id": "n_87d2e2970356",
-   "title": "ひざ関節の動きと肌の乾燥に着目した機能性表示食品 「ひざ肌W(ダブル) コラーゲン＆セラミド」新発売",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zTUVSRkxZLXJEejVGSDFBdVV3ZmdXWXJQdVpHMUk0TnJhbW5POGFyaHVEcHhRd0FQbUljdm5TMDhsZG5pdXFFU1NWa1pQaG84QUtVQnk3X1R4Y3lSVmVlUmhkckY?oc=5",
-   "source": "サントリーホールディングス",
-   "query": "GN ウエルネスブランド",
-   "scope": "suntory",
-   "publishedAt": "2026-09-15T07:00:00+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Wellness"
-   ],
-   "topics": [
-    "Launch"
-   ]
-  },
-  {
-   "id": "n_c5ec0c8cd024",
-   "title": "ひざ関節の動きと肌の乾燥に着目した機能性表示食品「ひざ肌Ｗ(ダブル) コラーゲン＆セラミド」新発売",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZZ1dLaExlVGhwd1A5RUh3X2NaZ01ybXllR3YwdVNUbkNaVDNQQXNPamx4MnlQRjNNMUt0UDY0djhabnZ1SW44RXpXTXE2YWpMMzBfaTRLZnprX3BjOU9CaFNpOWZ4QTk1aXc?oc=5",
-   "source": "PR TIMES",
-   "query": "GN ウエルネスブランド",
-   "scope": "suntory",
-   "publishedAt": "2026-09-15T07:00:00+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Wellness"
-   ],
-   "topics": [
-    "Launch"
-   ]
   },
   {
    "id": "n_1248c72135dc",
@@ -2788,23 +3255,6 @@
    "topics": []
   },
   {
-   "id": "n_baa8131dbe35",
-   "title": "「ロコモア」「セサミン」ブランドから、“飲むサプリ”シリーズが登場 ４０代以上の健康習慣の新たな選択肢手軽においしく栄養を取れる『ロコモアＷＡＴＥＲ』『セサミン１０００』２品同時発売",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tRWQyRmtYbEdOcjhfZzVwZzhlZmg4LUxxU1dfa1FHbGpNNnhSNGxLSmdxVVhUaGhoVGdDQWlkbnRIazlwTzFQUkhwQTZGZ3JXemo4SFJYMA?oc=5",
-   "source": "CLASSY.[クラッシィ]",
-   "query": "GN サントリーウエルネス",
-   "scope": "suntory",
-   "publishedAt": "2026-08-20T11:00:43+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Wellness"
-   ],
-   "topics": [
-    "Launch"
-   ]
-  },
-  {
    "id": "n_90beb6e6a07e",
    "title": "人生100年時代を見据える サントリーウエルネスのシニア市場成長戦略",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX19kMUg1UkJzOTRrU1NzUFVmLU5ueEk4cG5zZ2hkeXFpcFN5NjhsTGp0XzVnbjV0WXhmQnkwRDdCZEhyZElsX2tLN1RLTFhyWFU0ZzNoTXotcTlQUGw3T0JXSEppNFZmRWR0a3Y5bHlZM2RPcVQ0VjZRTEkzLVV0b0Jsd010QQ?oc=5",
@@ -2841,7 +3291,7 @@
    "title": "サントリーウエルネス、「セサミンバイタル」リニューアル発売",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13ekNaS2JtY0t6a1VBZ1dNeGNlTnE0d3hMYThhbTJSQk51VmRlOUJmODNRVHpXZmNNVWszN2FBakdVRmhHZ0tLSElOc295U0VfWndtNVgzTQ?oc=5",
    "source": "online.bci.co.jp",
-   "query": "GN サントリーウエルネス",
+   "query": "GN ウエルネスブランド",
    "scope": "suntory",
    "publishedAt": "2026-07-13T07:00:00+00:00",
    "summary": "",
@@ -2982,10 +3432,10 @@
    ]
   },
   {
-   "id": "n_48f73f98a673",
-   "title": "サントリーウエルネス 栗原勝範社長 商品開発、ポートフォリオを強化 シニアの豊かな生活文化を提案 (食品新聞)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0lGeXI2a2E2RVVXWGM3YXlrNm81UWl4TTY3bWRWT2lhUWJUWWR3aGZuQkN5Umc1U3lUTjJvQjgyUHBhYU81NThOSl9jTE9EMVVhd2NMa3FZdWFlZmYxclB3UTBWUzVtQW13UEM1aU42MDNDWWlvZ1lPU2d2dnF0dkJTQXo3VjktRWo0UUxB?oc=5",
-   "source": "Yahoo!ニュース",
+   "id": "n_8c57a60fded2",
+   "title": "サントリーウエルネス 栗原勝範社長 商品開発、ポートフォリオを強化 シニアの豊かな生活文化を提案",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pdU9pUlhaTElmbU4yU05JaDQwTXpOcl9xakVKVEtDSVo3WWlQR1RWNFJTaXh5SWdkT2xSTW85WUVuSWlOYXd3aVJNQVlGZEVXb3VmSDU0NTU4b0dnXzVZUUNJUjA?oc=5",
+   "source": "食品新聞 WEB版",
    "query": "GN サントリーウエルネス",
    "scope": "suntory",
    "publishedAt": "2026-06-01T07:00:00+00:00",
@@ -3185,6 +3635,22 @@
    ]
   },
   {
+   "id": "n_d36a2627e384",
+   "title": "【ミニストップ】5月12日から「ロコモア」「十六茶」などの飲料無料券もらえる！おためしセール中の商品も要チェック。",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01SDJqZlIzbmI5Rk1wTnV3dm01YmtHazdNUHVfcTNzcUtFMVJ5T1Z0Z0NUZ1hvQ0pibktJSk9wMXN1cm0taTVLV2VrZEpYNl9KbXY0?oc=5",
+   "source": "東京バーゲンマニア",
+   "query": "GN ウエルネスブランド",
+   "scope": "suntory",
+   "publishedAt": "2026-05-13T07:00:00+00:00",
+   "summary": "",
+   "related": true,
+   "segments": [
+    "Wellness",
+    "Beverage"
+   ],
+   "topics": []
+  },
+  {
    "id": "n_dc9107d8889c",
    "title": "麻雀で脳活 サントリーウエルネスと三省堂書店がイベント (食品新聞)",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTY5TFZQcTdoUXJRLUJybWM0VENibkFYaHVuTk5xTnFrSmZocENQOTJEWXlneGtZdFY2Z3RZRXo0MF9fdE4xZDVKYkhxLVZBYW52S2d5QVJocmUxUkgtX3ByaTlhSUotMUQ1NXJXLVRKNmRFbmVkZVdZQnVESG50dmpPM3R5Y0kxZHZoV1pn?oc=5",
@@ -3217,22 +3683,6 @@
    "topics": [
     "Ad"
    ]
-  },
-  {
-   "id": "n_d36a2627e384",
-   "title": "【ミニストップ】5月12日から「ロコモア」「十六茶」などの飲料無料券もらえる！おためしセール中の商品も要チェック。",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01SDJqZlIzbmI5Rk1wTnV3dm01YmtHazdNUHVfcTNzcUtFMVJ5T1Z0Z0NUZ1hvQ0pibktJSk9wMXN1cm0taTVLV2VrZEpYNl9KbXY0?oc=5",
-   "source": "東京バーゲンマニア",
-   "query": "GN ウエルネスブランド",
-   "scope": "suntory",
-   "publishedAt": "2026-05-13T07:00:00+00:00",
-   "summary": "",
-   "related": true,
-   "segments": [
-    "Wellness",
-    "Beverage"
-   ],
-   "topics": []
   },
   {
    "id": "n_5f1f239aa62b",
